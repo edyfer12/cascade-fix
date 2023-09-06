@@ -4,17 +4,16 @@ body {
 
 .para{
   color: hsl(0, 0%, 0%);
-  font-weight: 800;
+  
   font-size:22px;
 }
 
 .small-para {
   font-size: 14px;
-  font-weight: 800;
 }
 
 .para, .small-para{
-  
+  font-weight: 800;
 }
 
 .confirm {
